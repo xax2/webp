@@ -1,7 +1,7 @@
 uid,Nombre,URL,tipovisror,referer,useragent
 version,1.0.1
 test,testa,https://htmlpreview.github.io/?https://github.com/sanjuc/clear-key/blob/master/index.html,tipovisor1,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
-Lalig,La liga,https://xaxproyect001.free.nf/public_html/freddy_Laliga.html,tipovisor1,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
+Lalig,La liga,https://mycdn3.aws11-cdn-livestream-eu.site/hls/UEnKvE0m3zWPsyeo.m3u8,tipovisor1,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
 dazonlaliga1,DAZN Laliga a,https://xaxproyect001.free.nf/public_html/clapper_dlig.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
 dazonlaliga2,DAZN Laliga b,https://xaxproyect001.free.nf/public_html/webplayer3/jw_dl.html,tipovisor2, , 
 dazon1a,DAZN 1 a,https://xaxproyect001.free.nf/public_html/clapper_d1.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
